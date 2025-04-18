@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-🌸**my skils**  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+🌸###**my skils**  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)]
 <!--
 **tontontoto/tontontoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
