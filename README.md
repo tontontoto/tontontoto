@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 ### 🌸my skills  
 [![My Skills](https://skillicons.dev/icons?i=js,tailwind)](https://skillicons.dev)
