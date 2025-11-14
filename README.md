@@ -1,7 +1,7 @@
-### こんにちは！Hello!! 👋
+### Hello!! 👋
 
 ### 🌸my skills  
-[![My Skills](https://skillicons.dev/icons?i=js,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,ps,py,mysql)](https://skillicons.dev)
 <!--
 **tontontoto/tontontoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
