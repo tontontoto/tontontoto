@@ -1,7 +1,13 @@
 ### Hello!! 👋
 
-### 🌸my skills  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,ps,py,mysql,ai )](https://skillicons.dev)
+### 🌐 Front-end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,alpinejs)](https://skillicons.dev)
+
+### ⚙️ Back-end
+[![My Skills](https://skillicons.dev/icons?i=py,php,laravel,flask,mysql)](https://skillicons.dev)
+
+### 🎨 Design Tools
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
 <!--
 **tontontoto/tontontoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
