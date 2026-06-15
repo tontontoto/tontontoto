@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,alpinejs)](https://skillicons.dev)
 
 ### ⚙️ Back-end
-[![My Skills](https://skillicons.dev/icons?i=py,php,laravel,flask,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,flask,mysql)](https://skillicons.dev)
 
 ### 🎨 Design Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,ai)](https://skillicons.dev)
